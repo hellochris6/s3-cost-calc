@@ -23,7 +23,7 @@ calculate_cost() {
 }
 
 # Airtable API setup
-WEBHOOK_URL="https://hooks.airtable.com/workflows/v1/genericWebhook/appSONbKopXoysRHO/wflKBgSRqQpZ1P3EB/wtrfk4KRvjtijukj8"
+WEBHOOK_URL="#"
 
 log_to_airtable() {
   local date="$1"
