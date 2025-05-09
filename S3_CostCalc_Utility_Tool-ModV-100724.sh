@@ -3,6 +3,7 @@
 # Author: Chris Blue
 # Date: 2024-08-22
 # Purpose: The script calculates the total cost to restore objects from S3 Glacier based on user input for object sizes, including detailed output. Information is logged to Airtable for Finance to review monthly.
+#TEST
 
 # Function to calculate cost for a single object size
 calculate_cost() {
