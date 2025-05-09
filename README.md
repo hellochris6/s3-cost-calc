@@ -21,9 +21,3 @@ This interactive shell script estimates the cost of restoring objects from AWS S
 - `curl` (for Airtable integration)
 - `AWS CLI` (AWS CLI/SDK configuration and IAM permissions)
 
-## Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/s3-cost-calc.git
-   cd s3-cost-calc
