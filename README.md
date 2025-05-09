@@ -19,6 +19,7 @@ This interactive shell script estimates the cost of restoring objects from AWS S
 - `bash`
 - `bc` (basic calculator utility)
 - `curl` (for Airtable integration)
+- `AWS CLI` (AWS CLI/SDK configuration and IAM permissions)
 
 ## Setup
 
